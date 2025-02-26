@@ -1,5 +1,7 @@
 # Understanding Business Impact Analysis (BIA), Business Continuity Planning (BCP), and Disaster Recovery (DR)
 
+Date: 2025-02-26
+
 ## Introduction
 In today's rapidly evolving cybersecurity landscape, organizations face various risks that could disrupt operations. To mitigate these risks, three essential frameworks are employed: **Business Impact Analysis (BIA)**, **Business Continuity Planning (BCP)**, and **Disaster Recovery (DR)**. These components work together to ensure organizational resilience against unforeseen events, such as cyberattacks, natural disasters, or system failures. This blog post aims to define each framework, explain their integration, discuss their importance, explore risks associated with non-implementation, and provide practical use cases.
 
