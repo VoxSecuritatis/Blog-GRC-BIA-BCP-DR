@@ -275,6 +275,10 @@ For readers interested in delving deeper into **Organizational Resilience**, **B
 - [Business Continuity Planning – Wikipedia](https://en.wikipedia.org/wiki/Business_continuity_planning)  
 - [IT Disaster Recovery – Wikipedia](https://en.wikipedia.org/wiki/IT_disaster_recovery)
 - [Business Impact Analysis – Wikipedia](https://en.wikipedia.org/wiki/Business_impact_analysis)  
-- [Organizational Resilience – Wikipedia](https://en.wikipedia.org/wiki/Organizational_resilience)  
+- [Organizational Resilience – Wikipedia](https://en.wikipedia.org/wiki/Organizational_resilience)
+
+---
+
+© 2025 Brock Frary. All rights reserved.  
 
 ---
