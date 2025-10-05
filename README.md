@@ -280,5 +280,3 @@ For readers interested in delving deeper into **Organizational Resilience**, **B
 ---
 
 © 2025 Brock Frary. All rights reserved.  
-
----
